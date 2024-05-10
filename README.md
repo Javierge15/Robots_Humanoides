@@ -44,9 +44,9 @@ Se ha cambiado el parámetro `G` al valor `G = 1.63`
 
 Esto hace que todos los otros parámetros tengan que cambiar también para mantener el equilibrio del robot.
 
-Script disponible [AQUI](Frontal_JGE.py)
+Script disponible [AQUI](Sagital_Luna_JGE.py)
 
-El video se puede ver en el siguiente enlace [VIDEO PLANO SAGITAL LUNA](https://youtu.be/h9Fzvx-ElCU)
+El video se puede ver en el siguiente enlace [VIDEO PLANO SAGITAL LUNA](https://youtu.be/aZsN3ZFZQcE)
 
 
 ### Plano frontal con la gravedad de Júpiter
@@ -56,7 +56,7 @@ Se ha cambiado el parámetro `G` al valor `G = 24.5`
 
 Esto hace que todos los otros parámetros tengan que cambiar también para mantener el equilibrio del robot.
 
-Script disponible [AQUI](Frontal_JGE.py)
+Script disponible [AQUI](Frontal_Jupiter_JGE.py)
 
-El video se puede ver en el siguiente enlace [VIDEO PLANO FRONTAL JUPITER](https://youtu.be/h9Fzvx-ElCU)
+El video se puede ver en el siguiente enlace [VIDEO PLANO FRONTAL JUPITER](https://youtu.be/r8oo8D7KRpk)
 
