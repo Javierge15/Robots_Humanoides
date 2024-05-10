@@ -16,9 +16,11 @@ HEIGHT = 0.2 * len("Gomez")
 ```
 Dando como resultado `HEIGHT = 1`
 
-## Primer 1/12 - Avance en el plano SAGITAL
+### Primer 1/12 - Avance en el plano SAGITAL
+Script dispoible [AQUI](Sagital_JGE.py)
 
 
-
+### Segundo 1/12 - Avance en el plano FRONTAL
+Script dispoible [AQUI](Frontal_JGE.py)
 
 
