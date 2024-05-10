@@ -30,6 +30,33 @@ Se han realizado cambios en los parámetros `self.zmp_y`, `self.zmp_time_change`
 
 El video se puede ver en el siguiente enlace [VIDEO PLANO SAGITAL](https://youtu.be/h9Fzvx-ElCU)
 
-### Extras
+## EXTRAS
+Los extras realizados son los siguientes:
+- GitHub con la documentación y el procedimiento del trabajo realizado.
+- Videos subidos a YouTube
+- Plano sagital con la gravedad de la Luna
+- Plano frontal con la gravedad de Júpiter
 
+### Plano sagital con la gravedad de la Luna
+La gravedad en la Luna es aproximadamente 1/6 de la gravedad en la Tierra. Esto significa que la gravedad en la Luna es alrededor de 1.63 m/s².
+
+Se ha cambiado el parámetro `G` al valor `G = 1.63`
+
+Esto hace que todos los otros parámetros tengan que cambiar también para mantener el equilibrio del robot.
+
+Script disponible [AQUI](Frontal_JGE.py)
+
+El video se puede ver en el siguiente enlace [VIDEO PLANO SAGITAL LUNA](https://youtu.be/h9Fzvx-ElCU)
+
+
+### Plano frontal con la gravedad de Júpiter
+Júpiter, el planeta más grande de nuestro sistema solar, tiene una gravedad aproximadamente 2.5 veces mayor que la de la Tierra. Esto significa que la gravedad en Júpiter es de alrededor de 24.5 m/s².
+
+Se ha cambiado el parámetro `G` al valor `G = 24.5`
+
+Esto hace que todos los otros parámetros tengan que cambiar también para mantener el equilibrio del robot.
+
+Script disponible [AQUI](Frontal_JGE.py)
+
+El video se puede ver en el siguiente enlace [VIDEO PLANO FRONTAL JUPITER](https://youtu.be/h9Fzvx-ElCU)
 
