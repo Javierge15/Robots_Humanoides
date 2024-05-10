@@ -28,7 +28,7 @@ Script disponible [AQUI](Frontal_JGE.py)
 
 Se han realizado cambios en los parámetros `self.zmp_y`, `self.zmp_time_change`, y parámetros de visualización.
 
-El video se puede ver en el siguiente enlace [VIDEO PLANO SAGITAL](https://youtu.be/h9Fzvx-ElCU)
+El video se puede ver en el siguiente enlace [VIDEO PLANO FRONTAL](https://youtu.be/h9Fzvx-ElCU)
 
 ## EXTRAS
 Los extras realizados son los siguientes:
